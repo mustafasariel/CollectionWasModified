@@ -1,0 +1,4 @@
+﻿
+Amaç: Collection was not modified hatasını alıp düzeltmektir.
+Bir colloection farklı threadlerin erişmesini sağlayarak bu hatayı alacağım.
+Sonrasında collectionda değişiklik yapmaya devam ederek nasıl hata alınmayacağını göstereceğim.
